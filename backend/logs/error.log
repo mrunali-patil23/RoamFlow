@@ -1,0 +1,183 @@
+2026-01-01 14:18:15 [ERROR] app.services.ai_service:_validate_json_response:330: No JSON object found in AI response: This is not valid JSON...
+2026-01-01 14:22:14 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:22:14 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:22:14 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:22:14 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:22:14 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:22:14 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:24:08 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:24:08 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:24:08 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:24:08 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:24:08 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:24:08 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:24:08 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:24:08 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:24:09 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:24:09 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:48 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:48 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:48 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:48 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:48 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:48 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:48 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:48 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:48 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:48 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:48 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:48 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.services.ai_service:__init__:81: Failed to initialize AI service: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:26:49 [ERROR] app.core.exception_handlers:travel_planner_exception_handler:21: TravelPlannerException: AI service error: AI service initialization failed: GEMINI_API_KEY environment variable is required
+2026-01-01 14:29:04 [ERROR] app.services.ai_service:_validate_json_response:330: No JSON object found in AI response: This is not valid JSON...
+2026-01-01 14:34:14 [ERROR] app.services.ai_service:_generate_content_with_retry:284: Non-retryable error encountered: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2026-01-01 14:34:14 [ERROR] app.services.ai_service:_generate_content_with_retry:296: AI generation failed after 3 attempts. Last error: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2026-01-01 14:34:27 [ERROR] app.services.ai_service:_generate_content_with_retry:284: Non-retryable error encountered: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2026-01-01 14:34:27 [ERROR] app.services.ai_service:_generate_content_with_retry:296: AI generation failed after 3 attempts. Last error: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2026-01-01 14:36:29 [ERROR] app.services.ai_service:_generate_content_with_retry:284: Non-retryable error encountered: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2026-01-01 14:36:29 [ERROR] app.services.ai_service:_generate_content_with_retry:296: AI generation failed after 3 attempts. Last error: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2026-01-01 14:37:51 [ERROR] app.services.ai_service:_generate_content_with_retry:284: Non-retryable error encountered: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2026-01-01 14:37:51 [ERROR] app.services.ai_service:_generate_content_with_retry:296: AI generation failed after 3 attempts. Last error: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2026-01-01 14:40:03 [ERROR] app.services.ai_service:_generate_content_with_retry:284: Non-retryable error encountered: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-01 14:40:03 [ERROR] app.services.ai_service:_generate_content_with_retry:296: AI generation failed after 3 attempts. Last error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-01 14:40:48 [ERROR] app.services.ai_service:_generate_content_with_retry:284: Non-retryable error encountered: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-01 14:40:48 [ERROR] app.services.ai_service:_generate_content_with_retry:296: AI generation failed after 3 attempts. Last error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-11 16:15:39 [ERROR] app.services.ai_service:_generate_content_with_retry:284: Non-retryable error encountered: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-11 16:15:39 [ERROR] app.services.ai_service:_generate_content_with_retry:296: AI generation failed after 3 attempts. Last error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-11 16:16:32 [ERROR] app.services.ai_service:_generate_content_with_retry:284: Non-retryable error encountered: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-11 16:16:32 [ERROR] app.services.ai_service:_generate_content_with_retry:296: AI generation failed after 3 attempts. Last error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-11 16:28:15 [ERROR] app.services.ai_service:_generate_content_with_retry:284: Non-retryable error encountered: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-11 16:28:15 [ERROR] app.services.ai_service:_generate_content_with_retry:296: AI generation failed after 3 attempts. Last error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-11 16:30:16 [ERROR] app.services.ai_service:_generate_content_with_retry:284: Non-retryable error encountered: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-11 16:30:16 [ERROR] app.services.ai_service:_generate_content_with_retry:296: AI generation failed after 3 attempts. Last error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-11 17:52:58 [ERROR] app.services.ai_service:_generate_content_with_retry:284: Non-retryable error encountered: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-11 17:52:58 [ERROR] app.services.ai_service:_generate_content_with_retry:296: AI generation failed after 3 attempts. Last error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-11 17:53:46 [ERROR] app.services.ai_service:_generate_content_with_retry:284: Non-retryable error encountered: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-11 17:53:46 [ERROR] app.services.ai_service:_generate_content_with_retry:296: AI generation failed after 3 attempts. Last error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-11 17:55:08 [ERROR] uvicorn.error:send:134: Traceback (most recent call last):
+  File "C:\Users\Mrunali\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mrunali\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 654, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Mrunali\AppData\Local\Programs\Python\Python311\Lib\site-packages\uvicorn\server.py", line 78, in serve
+    await self.startup(sockets=sockets)
+  File "C:\Users\Mrunali\AppData\Local\Programs\Python\Python311\Lib\site-packages\uvicorn\server.py", line 89, in startup
+    await self.lifespan.startup()
+  File "C:\Users\Mrunali\AppData\Local\Programs\Python\Python311\Lib\site-packages\uvicorn\lifespan\on.py", line 54, in startup
+    await self.startup_event.wait()
+  File "C:\Users\Mrunali\AppData\Local\Programs\Python\Python311\Lib\asyncio\locks.py", line 213, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mrunali\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Mrunali\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mrunali\AppData\Local\Programs\Python\Python311\Lib\site-packages\starlette\routing.py", line 686, in lifespan
+    await receive()
+  File "C:\Users\Mrunali\AppData\Local\Programs\Python\Python311\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mrunali\AppData\Local\Programs\Python\Python311\Lib\asyncio\queues.py", line 158, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2026-01-11 17:55:09 [ERROR] app.services.ai_service:_generate_content_with_retry:284: Non-retryable error encountered: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-11 17:55:09 [ERROR] app.services.ai_service:_generate_content_with_retry:296: AI generation failed after 3 attempts. Last error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-11 17:59:11 [ERROR] app.services.ai_service:_generate_content_with_retry:284: Non-retryable error encountered: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-11 17:59:11 [ERROR] app.services.ai_service:_generate_content_with_retry:296: AI generation failed after 3 attempts. Last error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
