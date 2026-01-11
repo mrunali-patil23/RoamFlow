@@ -4524,3 +4524,4 @@ message: "API key not valid. Please pass a valid API key."
 2026-01-11 17:59:11 [ERROR] app.services.ai_service: AI generation failed after 3 attempts. Last error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
 2026-01-11 17:59:11 [WARNING] app.services.ai_service: AI itinerary generation failed, using fallback: AI service error: AI generation failed after 3 attempts. Last error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
 2026-01-11 17:59:11 [INFO] app.services.ai_service: Creating fallback itinerary for Paris, France
+2026-01-11 17:59:41 [INFO] app.core.middleware: Request completed
