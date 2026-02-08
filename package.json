@@ -1,4 +1,23 @@
 {
+<<<<<<< HEAD
+  "name": "ai-travel-planner",
+  "version": "1.0.0",
+  "description": "AI-powered travel planning application",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && python -m uvicorn main:app --reload --host 0.0.0.0 --port 8000",
+    "build": "cd frontend && npm run build",
+    "start": "cd frontend && npm start",
+    "install:all": "npm install && cd frontend && npm install && cd ../backend && pip install -r requirements.txt",
+    "verify": "cd frontend && npm run build && cd ../backend && python test_structure.py",
+    "setup:backend": "python setup.py"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
+=======
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -35,3 +54,4 @@
     "typescript": "^5"
   }
 }
+>>>>>>> 219a0bc3c6f739f47786d4fb0bdc0101f3872e26
