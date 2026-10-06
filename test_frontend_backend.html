@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frontend-Backend Connection Test</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        .test { margin: 20px 0; padding: 10px; border: 1px solid #ccc; }
+        .success { background-color: #d4edda; border-color: #c3e6cb; }
+        .error { background-color: #f8d7da; border-color: #f5c6cb; }
+        button { padding: 10px 20px; margin: 5px; }
+    </style>
+</head>
+<body>
+    <h1>AI Trip Planner - Connection Test</h1>
+    
+    <div class="test">
+        <h3>Backend Health Check</h3>
+        <button onclick="testBackendHealth()">Test Backend Health</button>
+        <div id="health-result"></div>
+    </div>
+    
+    <div class="test">
+        <h3>Authentication Test</h3>
+        <button onclick="testLogin()">Test Admin Login</button>
+        <div id="auth-result"></div>
+    </div>
+    
+    <div class="test">
+        <h3>Trip Preferences Options</h3>
+        <button onclick="testTripOptions()">Test Trip Options</button>
+        <div id="options-result"></div>
+    </div>
+
+    <script>
+        async function testBackendHealth() {
+            const resultDiv = document.getElementById('health-result');
+            try {
+                const response = await fetch('http://localhost:8001/health');
+                const data = await response.json();
+                resultDiv.innerHTML = `<div class="success">✓ Backend Health: ${data.status} - ${data.service} v${data.version}</div>`;
+            } catch (error) {
+                resultDiv.innerHTML = `<div class="error">✗ Backend Health Failed: ${error.message}</div>`;
+            }
+        }
+
+        async function testLogin() {
+            const resultDiv = document.getElementById('auth-result');
+            try {
+                const response = await fetch('http://localhost:8001/auth/login', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        username: 'admin',
+                        password: 'admin123'
+                    })
+                });
+                
+                if (response.ok) {
+                    const data = await response.json();
+                    resultDiv.innerHTML = `<div class="success">✓ Login Successful: ${data.user.username} (${data.user.email})</div>`;
+                } else {
+                    const error = await response.json();
+                    resultDiv.innerHTML = `<div class="error">✗ Login Failed: ${error.detail}</div>`;
+                }
+            } catch (error) {
+                resultDiv.innerHTML = `<div class="error">✗ Login Error: ${error.message}</div>`;
+            }
+        }
+
+        async function testTripOptions() {
+            const resultDiv = document.getElementById('options-result');
+            try {
+                const response = await fetch('http://localhost:8001/trip-preferences/options');
+                const data = await response.json();
+                resultDiv.innerHTML = `<div class="success">✓ Trip Options: ${data.travel_types.length} travel types, ${data.interests.length} interests</div>`;
+            } catch (error) {
+                resultDiv.innerHTML = `<div class="error">✗ Trip Options Failed: ${error.message}</div>`;
+            }
+        }
+
+        // Auto-run tests on page load
+        window.onload = function() {
+            testBackendHealth();
+            testLogin();
+            testTripOptions();
+        };
+    </script>
+</body>
+</html>

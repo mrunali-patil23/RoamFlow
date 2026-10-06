@@ -1,0 +1,32 @@
+{
+  "name": "ai-trip-planner",
+  "version": "1.0.0",
+  "description": "AI-powered Real-Time Trip Planner - Full-stack web application",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && python main.py",
+    "build": "cd frontend && npm run build",
+    "test": "concurrently \"npm run test:backend\" \"npm run test:frontend\"",
+    "test:frontend": "cd frontend && npm test",
+    "test:backend": "cd backend && pytest",
+    "install:all": "npm install && cd frontend && npm install && cd ../backend && pip install -r requirements.txt",
+    "setup": "cp .env.example .env && npm run install:all"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "keywords": [
+    "ai",
+    "trip-planner",
+    "travel",
+    "react",
+    "fastapi",
+    "supabase",
+    "serp-api",
+    "gemini-api"
+  ],
+  "author": "AI Trip Planner Team",
+  "license": "MIT"
+}
